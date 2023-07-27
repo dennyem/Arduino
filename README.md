@@ -1,6 +1,6 @@
 # Arduino Adafruit_RA8875 5 inch TFT display on STM32F401RE Nucleo
 
-I purchased the 5" TFT from Core Electronics a few months ago and have been working
+I purchased the 5" TFT from Core Electronics (Australia) a few months ago and have been working
 on getting it working.  It works on a simple UNO example fine but on a
 more powerful MCU like the STM32F401RE Nucleo forget it.
 
